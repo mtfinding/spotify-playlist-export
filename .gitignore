@@ -1,0 +1,9 @@
+# Spotify login token - never commit
+.cache/
+
+# Export results (personal playlist data)
+output/
+
+__pycache__/
+*.pyc
+.DS_Store
